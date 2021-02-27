@@ -5,7 +5,8 @@
 			- Temperatura do ar 
 			- Umidade do Ar
 			- Umidade so Solo
-		Para torna o projeto mais simples, a regulagem da umidade do solo deve ser realizada dentro do codigo do projeto no campo indicado dentro da IDE da arduino
+		Para torna o projeto mais simples, a regulagem da umidade do solo deve ser realizada dentro do codigo do projeto no campo indicado
+		dentro da IDE da arduino
 
    
 
@@ -16,9 +17,10 @@ Faça o download deste repositório.
 siga o passo-a-passo dentro do codigo .ino para a criação do banco de dados da sua pequena plantação
 
 ----ATENÇÃO-----
-Caso deseje utilizar uma bomba de àgua com corrente maoir que 1A, utilize o modulo relé e a saída de +12 ou +5 do componente U2
-se for abaixp ou igual a 1 A, utilize a saida +5 e GND do componente U2
-Demais instruções sobre a construção em:
+
+  	Caso deseje utilizar uma bomba de àgua com corrente maoir que 1A, utilize o modulo relé e a saída de +12 ou +5 do 
+    componente U2 se for abaixo ou igual a 1 A, utilize a saida +5 e GND do componente U2
+  	Demais instruções sobre a construção em:
 
 
 
