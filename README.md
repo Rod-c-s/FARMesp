@@ -1,4 +1,5 @@
-# SEJA BEM VINDO AO PROJETO FARMesp
+# SEJA BEM VINDO AO PROJETO FARMesp ---EM DESENVOLVIMENTO ----
+
 # O que é o FARMesp
     O shield FARMesp, desenvolvido para NodeMCU V3 ESP8266, busca automatizar uma irrigação e fornecer os dados 
     para o usuário.
