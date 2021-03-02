@@ -1,0 +1,9 @@
+Montagem do shield:
+1 ESP8266
+1 Transistor BC548
+2 Resistores de 10k
+1 AMS 1117 5V
+2 Capacitores 10 uF
+1 Entrada P4 Fêmea 
+1 Sensor DHT11 ou DHT22
+1 Sensor de umidade do solo/ higrometro
