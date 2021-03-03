@@ -23,7 +23,8 @@ siga o passo-a-passo dentro do codigo .ino para a criação do banco de dados da
 
 ----ATENÇÃO-----
 
-  	Caso deseje utilizar uma bomba de àgua com corrente maior que 1A utilize o modulo relé e, se for abaixo ou igual a 1 A, utilize a saida +5 e GND do componente U2
+  	Caso deseje utilizar uma bomba de àgua com corrente maior que 1A utilize o modulo relé(Portas s1 e s2) e,
+	se for abaixo ou igual a 1 A, utilize as portas +5 e GND do componente U2
   	Demais instruções sobre a construção em:
 
 
