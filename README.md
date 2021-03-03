@@ -1,7 +1,9 @@
 # SEJA BEM VINDO AO PROJETO FARMesp ---EM DESENVOLVIMENTO ----
+# O que é o Projeto FARMesp?
+	O Projeto FARMesp tem como objetivo integrar a criação de plantas com a tecnologia IOT, utilizando microcontroladores e shields.
 
-# O que é o FARMesp
-    O shield FARMesp, desenvolvido para NodeMCU V3 ESP8266, busca automatizar uma irrigação e fornecer os dados 
+# O que é o FARMesp SNAKE?
+    O shield FARMesp SNAEKE, desenvolvido para NodeMCU V3 ESP8266, busca automatizar uma irrigação e fornecer os dados 
     para o usuário.
   	Para fornecer os dado obtidos pelo sensores de umidade do solo e DHT11/DHT22, o utiliza-se uma pagina
 	web contendo as informações:
@@ -21,8 +23,7 @@ siga o passo-a-passo dentro do codigo .ino para a criação do banco de dados da
 
 ----ATENÇÃO-----
 
-  	Caso deseje utilizar uma bomba de àgua com corrente maoir que 1A, utilize o modulo relé e a saída de +12 ou +5 do 
-    componente U2 se for abaixo ou igual a 1 A, utilize a saida +5 e GND do componente U2
+  	Caso deseje utilizar uma bomba de àgua com corrente maoir que 1A utilize o modulo relé e, se for abaixo ou igual a 1 A, utilize a saida +5 e GND do componente U2
   	Demais instruções sobre a construção em:
 
 
